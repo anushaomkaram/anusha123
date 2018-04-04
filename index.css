@@ -40,6 +40,19 @@ color: red;
 a{
 text-decoration: none;
 }
+table{
+width:95%;
+}
+td{
+padding:1%;
+}
+tr:nth-child(even){
+background:orange;
+}
+tr:nth-child(odd){
+background:pink;
+}
+
 @media only screen and (min-width:320px) and (max-width:480px){
 .flex-parent{
 display: flex;
