@@ -18,9 +18,30 @@
       "school":"Sri vidyanikethan",
       "data":["20014","100%"]
     }
+],
+"skills":[
+ {
+   "name":"operating system",
+   "info":["windows","fedora","redhat","ubuntu"]
+
+ },
+ {
+   "name":"languages",
+   "info":["c","java","c++","python"]
+ },
+ {
+   "name":"Databass",
+   "info":["oracle","mysql","mongoDB","cybase"]
+
+ },
+ {
+   "name":"web technologies",
+   "info":["html","css","javascript"]
+
+ },
+ {
+   "name":"frameworks",
+   "info":["bootstrap",".net"]
+ }
 ]
  }
- "career":{
-   "info":"to pursue ms"
-         }
-}
