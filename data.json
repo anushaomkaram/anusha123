@@ -1,4 +1,25 @@
 {
+"carrer":{
+"info":"to be professional one"
+},
+"education":[
+{
+  "degree":"ssc",
+  "school":"golden bells high school",
+  "data":["2007","80%"]
+  },
+  {
+    "degree":"intermadiate",
+    "school":"Sri chaitanya",
+    "data":["2009","90%"]
+    },
+    {
+      "degree":"Graduation",
+      "school":"Sri vidyanikethan",
+      "data":["20014","100%"]
+    }
+]
+ }
  "career":{
    "info":"to pursue ms"
          }
